@@ -1,9 +1,11 @@
 ## EDA on online retail sales
 📊<B> Retail Sales Analysis & Forecasting</B>
 <br>
-📌<B> Project Overview<B/>
+
+📌<B> Project Overview<B/><br>
 This project aims to analyze retail sales data to uncover trends, identify top-selling products, evaluate the impact of discounts, and predict future sales using time series forecasting. Additionally, market basket analysis is performed to understand customer purchase behavior.
 <br>
+
 🎯 <B>Key Objectives</B><br>
 ✔ Analyze sales trends over time to detect seasonal patterns.<br>
 ✔ Identify top-selling products and the impact of discounts on revenue.<br>
@@ -18,15 +20,19 @@ This project aims to analyze retail sales data to uncover trends, identify top-s
 Monthly sales trends were visualized using line charts.<br>
 Sales fluctuations were analyzed to detect seasonality and growth patterns.<br>
 Key takeaway: The trend identifies peak sales months, which helps in demand planning.<br>
+
 🛒 2. Top-Selling Products & Category Analysis<br>
 Products were ranked based on total revenue contribution.<br>
 Key takeaway: Helps optimize inventory for the best-performing items.<br>
+
 🎯 3. Effect of Discounts on Sales<br>
 A comparative analysis was done between discounted vs. full-price products.<br>
 Key takeaway: Discounts drive higher sales volume, but careful pricing strategies are needed to maintain profitability.<br>
+
 👥 4. Customer Segmentation (RFM Analysis)<br>
 Customers were grouped into High-Value, Medium-Value, and Low-Value Segments based on spending and transaction frequency.<br>
 Key takeaway: High-value customers drive most revenue, and targeted campaigns can increase retention.<br>
+
 💳 5. Payment Method Analysis<br>
 Sales by payment method (e.g., credit card, PayPal, cash) were analyzed.<br>
 Key takeaway: Optimizing checkout experiences can reduce cart abandonment.<br>
